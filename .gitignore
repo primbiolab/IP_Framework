@@ -1,4 +1,7 @@
-# Directorios
+﻿# Directorios
 __pycache__/
 .vscode/
 back.md
+dist/
+build/
+venv/

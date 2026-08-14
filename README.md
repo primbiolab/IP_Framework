@@ -149,8 +149,3 @@ The framework supports end-to-end training of reinforcement learning models:
 
 ---
 
-## 🎓 Credits & Academic Context
-
-This framework was developed at the **Universidad Nacional de Colombia (Sede de La Paz)** within the **hotbed PRIMBIO** research group. 
-
-It serves as a comprehensive academic and research tool to evaluate, compare, and demonstrate the efficacy of classical control (LQR) versus modern, data-driven optimization strategies (SAC/DDPG) in highly unstable, non-linear environments.

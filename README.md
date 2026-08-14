@@ -1,4 +1,4 @@
-# 🎯 IPPlatform
+# 🎯 IPFramework
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Plataforma](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)

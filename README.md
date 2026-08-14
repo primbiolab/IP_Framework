@@ -51,7 +51,7 @@ La interfaz de usuario está diseñada para ser intuitiva, al tiempo que proporc
 5. **Visualización de telemetría y gráficas:** El panel de control muestra en tiempo real los valores numéricos de la telemetría. Cambie a las pestañas de visualización para observar gráficas en tiempo real del ángulo del péndulo, la posición del carro y la acción de control.
 6. **Entrenamiento de agentes:** Acceda a la pestaña de entrenamiento de RL, configure los hiperparámetros (número de episodios, tamaño del lote) y haga clic en **Train**. El progreso y las recompensas se registran directamente en la interfaz.
 
-## 🚀 Quick Start
+---
 
 ### Instalación
 
@@ -63,7 +63,7 @@ cd IPFramework
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 
 ### Ejecución del sistema
 
@@ -127,6 +127,8 @@ Files/
 ├── inverted_pendulum_arduino.ino # Firmware en C++ para el microcontrolador Arduino
 ├── main_GUI.py            # Punto de entrada principal que inicia el panel de control PyQt5
 └── requirements.txt       # Dependencias de paquetes de Python
+```
+---
 
 ## 🏋️ Entrenamiento de agentes de RL
 

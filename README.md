@@ -147,3 +147,12 @@ El framework permite realizar el entrenamiento completo de modelos de aprendizaj
 
 ---
 
+
+## 📜 Créditos y Contexto
+
+Desarrollado en la Universidad Nacional de Colombia, Sede La Paz, en el marco de las actividades académicas de sus autores.
+
+---
+## Afiliación institucional
+
+Escuela de Pregrado, Dirección Académica, Vicerrectoría de Sede, Universidad Nacional de Colombia, Sede La Paz, Cesar, Colombia.
